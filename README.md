@@ -8,3 +8,5 @@ create_nps_database.sql - fixed example from here: https://docs.microsoft.com/en
 create_nps_database_simple.sql - removed unnecessary fields to make database smaller
 
 accounting.sql - view for reporting on users
+
+RADIUSReportl.rdl - report for SSRS
